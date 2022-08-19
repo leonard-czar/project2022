@@ -1,0 +1,39 @@
+﻿<!doctype html>
+
+              <html>
+   <head> 
+
+<title>nav and background-color,negative margin demo</title>
+
+   
+		<style type="text/css"> 
+		
+		
+		
+		</style>
+		   
+</head >
+          
+		  <body style="padding:50%">
+		  
+		  <div style="border:2px solid black; background-color:rgba(0,255,0,0.3); 
+		  position:absolute; height:200px;
+		  width:250px; z-index:3 "><p>hello</p></div>
+		  
+		  <div style="border:2px solid black; background-color:rgba(255,0,0,0.3);
+		  position:absolute; height:200px; top:100px; left:60px ;
+		  width:250px; z-index:2 "><p>bell</p></div>
+		  
+<div style="border:2px solid black; background-color:rgba(0,0,255,0.3);
+		  position:absolute; height:200px; top:130px; left:2px;
+		  
+		  width:250px; z-index:-1 "><p>bell</p></div>
+		  
+		  
+		  
+		 
+		 
+
+                    </body>
+
+</html>

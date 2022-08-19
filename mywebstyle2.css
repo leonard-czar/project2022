@@ -1,0 +1,19 @@
+ /* program custom web fonts
+ date: 10 august/2022
+ author : lebechi leonard*/
+ 
+ @font-face {
+	 font-family:'myrubik';
+ src:url('fonts/rubik:rubik-blackitalic-webfont.woff2'):url('fonts/rubik:rubik-bold-webfont.ttf');
+ 
+ } 
+	@font-face {font-family:'leonard';
+	src:url('fonts/karla:karla-regular-webfont.woff2');}
+	
+	
+	 
+	h1,h2,h3,h4,h5,h6{font-family:myrubik, serif}
+	
+	p{font-family:leonard, padauk, sans-serif}
+	 
+ 

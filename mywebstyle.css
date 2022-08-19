@@ -1,0 +1,8 @@
+ /* program custom web fonts
+ date: 10 august/2022
+ author : lebechi leonard*/
+ 
+ h1,h2,h3,h4,h5,h6{font-family: BioRhyme, serif;
+}
+ 
+ p{font-family:paduk, sans-serif}

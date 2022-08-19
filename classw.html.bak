@@ -1,0 +1,37 @@
+<!doctype html>
+
+              <html>
+   <head> 
+
+<title> web fonts </title>
+
+ 
+				 
+				  
+		<style type="text/css"> 
+		#academy{ border-radius:50%; border-style:double; background-color:red; height:200px ; width:200px
+		
+		 }
+		
+		.camp{border-radius:50%; border-style:double; background-color:yellow;  height:200px ; width:200px
+		}
+		
+		#boot{border-radius:50%; border-style:double; background-color:green,  height:200px ; width:200px
+		}
+
+		</style>
+		
+		<link rel="stylesheet" href="classw.css"/>
+		   
+</head >
+          
+		  <body>
+		  
+		  <div id="academy"> </div>
+		  <div class="camp"> </div>
+		  <div id="boot"> </div>
+		  
+
+                    </body>
+
+</html>

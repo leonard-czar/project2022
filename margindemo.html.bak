@@ -1,0 +1,45 @@
+<!doctype html>
+
+              <html>
+   <head> 
+
+<title> margin and padding demo </title>
+
+   
+		<style type="text/css"> 
+		
+		div{border:2px solid #000;
+		height:250px; width:400px}
+		
+		#div2{margin:20px 50px 80px 100px;}
+		
+		#div3{padding:50px}
+		
+		</style>
+		   
+</head >
+          
+		  <body>
+		  
+		  <div id="div1"> this is a marging and padding demo, 
+		  this is a marging and padding demo,
+		  this is a marging and padding demo ,this is a marging and padding demo
+		  this is a marging and padding demo</div>
+		  
+		  <div id="div2">  this is a marging and padding demo, 
+		  this is a marging and padding demo,
+		  this is a marging and padding demo ,this is a marging and padding demo
+		  this is a marging and padding demo</div>
+		  
+		  <div id="div3">  this is a marging and padding demo, 
+		  this is a marging and padding demo,
+		  this is a marging and padding demo ,this is a marging and padding demo
+		  this is a marging and padding demo,this is a marging and padding demo, 
+		  this is a marging and padding demo,
+		  this is a marging and padding demo ,this is a marging and padding demo
+		  this is a marging and padding demo</div>
+		  
+
+                    </body>
+
+</html>

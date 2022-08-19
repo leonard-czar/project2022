@@ -1,0 +1,47 @@
+/* css postioning*/
+
+.flexparent{ display: flex; border: 1px solid #000; background-color: skyblue; padding: 40px 0; position: sticky; top:20px;}
+
+#logo{ width: 20%; border: 1px solid #000;}
+
+#menu{ width: 80% border 1px solid #000;}
+
+#topanime{ background-color:#000; color: #fff; padding: 20px 0px;}
+
+.box1 { border:1px solid #000; height: 200px ;width: 250px;}
+
+.box2 { border:1px solid #000; height: 200px ;width: 250px;
+     background-color: antiquewhite;
+      position: relative;left: 605px; top: -200px; right:0px ;}
+
+
+.box3 { border:1px solid #000; height: 200px ;width: 250px;}
+
+
+.box4 { border:0px solid #000; height: 200px ;
+    width: 250px; background-color: yellow;
+    position:absolute ;
+    top:-605px;left: 290px;}
+
+
+.box5 { border:1px solid #000;
+     height: 200px ;width: 250px;
+      background-color:green;}
+
+#goup{position: fixed; 
+    bottom: 10px; 
+    background-color:rgba(0, 0, 0, 0.5) ; 
+    right: 5px;}
+
+    .social{ position: fixed; top:300px;
+         background-color:white; right: 5px;
+	}
+
+    .remove{list-style-type: none; position: sticky;
+         top: 10px; right:10px
+        }
+
+         #banner{ height: 700px;
+             background-image:url("banner.jpg") 
+			 border:1px solid black;
+             background-size: cover;}

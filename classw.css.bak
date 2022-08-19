@@ -1,0 +1,12 @@
+#academy{ border-radius:50%; border-style:double; background-color:red; border:10px solid silver;
+		border-width:10px; height:50px; width:50px
+		 }
+		
+		.camp{border-radius:50%; border-style:double;
+		background-color:yellow ;border:10px solid silver; border-width:10px;height:50px; width:50px;
+		}
+		
+		#boot{border-radius:50%; border-style:double; 
+		background-color:green;border:10px solid silver ;border-width:10px;height:50px; width:50px;
+		}
+		

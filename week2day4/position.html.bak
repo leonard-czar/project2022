@@ -1,0 +1,68 @@
+<!doctype html>
+
+              <html>
+   <head> 
+
+<title>css positioning</title>
+<!---->
+
+   <link href="position.css"  rel="stylesheet"/>
+   
+		<style type="text/css"> 
+	
+		          </style>
+		   
+</head >
+          
+		           <body>
+<marquee id="topanime"> breaking news!</marquee>
+		  <div class="flexparent" >
+
+
+<div id="logo">logo</div>
+<div id="menu">menu</div>
+
+
+<div id="banner"> </div>
+
+        </div>
+
+
+<div id="goup"><a href="#flexparent">go up</a></div>
+<div class="social">
+<div ><a href="#"><img src="vision0.png" width="35px"></a></div>
+<div ><a href="#"><img src="whatsapp.png" width="35px"></a></div>
+<div ><a href="#"><img src="gmail442.png" width="35px"></a></div>
+<div><a href="#"><img src="facebook.png" width="35px"></a></div>
+</div>
+
+
+<div >
+<ul class="remove">
+   <li> <img src="vision0.png" width="30px" alt=""></li>
+   <li><img src="whatsapp.png" width="30px" alt=""></li>
+   <li><img src="gmail442.png" width="30px" alt=""></li>
+   <li><img src="facebook.png" width="30px" alt=""></li>
+
+
+</ul>
+</div>
+
+        <div class="box1"> box1</div>
+
+        <div class="box2">box2</div>
+
+        <div class="box3">box3</div>
+
+        <div style="position:relative; border: 0px solid black;" >
+          <div class="box4"></div>box4</div>
+        
+        <div class="box5">box5</div>
+		  
+		  
+		</div>
+		 
+
+                    </body>
+
+</html>
